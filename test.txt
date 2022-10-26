@@ -4,3 +4,4 @@ hero
 hero1
 change online
 test ignore remote repository's name'
+test direct git pull on branch master whether can update other branches at the same time.
