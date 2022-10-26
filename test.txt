@@ -3,3 +3,4 @@
 hero
 hero1
 change online
+test ignore remote repository's name'
