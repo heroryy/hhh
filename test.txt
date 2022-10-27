@@ -5,4 +5,5 @@ hero1
 change online
 test ignore remote repository's name'
 test direct git pull on branch master whether can update other branches at the same time.
-test direct git pusl on branch hero whether can create remote branch hero automatically.
+test direct git push on branch hero whether can create remote branch hero automatically.
+test direct git push on branch hero while remote branch has existed hero branch.
